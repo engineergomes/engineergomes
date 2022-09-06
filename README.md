@@ -6,7 +6,7 @@
 <p align="left"> 
   👨‍💻 Working as freelancer <strong>FullStack</strong> dev.<br>
   👨‍🎓 Master Degree student in electrical engineering. <br>
-  🥰 Love cycling, hiking ang gaming.
+  🥰 Love cycling, hiking ang gaming.<br>
   📣 renewable energy and blockchain enthusiast.
 </p>
 
