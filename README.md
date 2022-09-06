@@ -4,8 +4,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computer and Coffee">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Master Degree student in electrical engineering, working as <strong>FullStack</strong> dev
+  
+  Master Degree student in electrical engineering, working as <strong>FullStack</strong> dev.<br>
+  Hiker
 </p>
 
 <p align="left">
@@ -17,11 +18,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
-</p>
-
-<p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Connect with me: ⤵️
 </p>
 
 <p align="left">
@@ -52,4 +49,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=engineergomes&show_icons=true&locale=en&layout=compact" alt="engineergomes" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=engineergomes&show_icons=true&locale=en&layout=compact&theme=radical" alt="engineergomes" /></p>
