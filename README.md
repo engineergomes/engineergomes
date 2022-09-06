@@ -22,31 +22,20 @@
 </p>
 
 <p align="left">
-  <a href="#" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" alt="Gmail"/></a>
+  <a href="mailto:eng.rsgomes@gmail.com" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
   <a href="https://www.linkedin.com/in/engineergomes/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin"/></a>
 
-  <a href="#" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
+  <a href="https://wa.me/5571997001211?text=Hey%20Rafa!" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 
-  <a href="#" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK" alt="Facebook"/></a>
-
-  <a href="#" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+  <a href="https://t.me/engineergomes" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/-Telegram-30A3E6?style=flat-square&labelColor=30A3E6&logo=telegram&logoColor=white&link=LINK-DO-SEU-FACEBOOK" alt="Facebook"/></a>
 
   <a href="https://twitter.com/engineergomes" target="_blank" rel="noreferrer" >
   <img src="https://img.shields.io/badge/-Twiiter-1D9BF0?style=flat-square&labelColor=1D9BF0&logo=twitter&logoColor=white" alt="Twitter"/></a>
 </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/engineergomes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="engineergomes" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/engineergomes" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="engineergomes" height="30" width="30" /> </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=engineergomes&show_icons=true&locale=en&layout=compact&theme=radical" alt="engineergomes" /></p>
