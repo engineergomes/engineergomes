@@ -19,7 +19,8 @@
 </p>
 
 <p align="left">
-  💌 Connect with me: ⤵️
+  I'm looking for new opportunities! <br>
+  Feel free to connect with me: ⤵️
 </p>
 
 <p align="left">
