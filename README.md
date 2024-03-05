@@ -40,6 +40,4 @@
   <img src="https://img.shields.io/badge/-Twiiter-1D9BF0?style=flat-square&labelColor=1D9BF0&logo=twitter&logoColor=white" alt="Twitter"/></a>
 </p>
 
-Check my website: https://engineergomes.vercel.app/
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=engineergomes&show_icons=true&locale=en&layout=compact&theme=radical" alt="engineergomes" /></p>
