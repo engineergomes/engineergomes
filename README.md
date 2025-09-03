@@ -4,10 +4,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computer and Coffee">
 
 <p align="left"> 
-  👨‍💻 Working as freelancer <strong>FullStack</strong> dev.<br>
-  👨‍🎓 Master Degree student in electrical engineering. <br>
+  👨‍💻 <strong>FullStack</strong> engineer.<br>
+  👨‍🎓 B.Eng. in Electrical and Electronics Engineering. <br>
   🥰 Love cycling, hiking ang gaming.<br>
-  📣 renewable energy and blockchain enthusiast.
+  📣 Renewable energy, blockchain and AI enthusiast.
 </p>
 
 <p align="left">
