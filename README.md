@@ -30,11 +30,11 @@
   <a href="https://www.linkedin.com/in/engineergomes/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin"/></a>
 
-  <a href="https://wa.me/5571997001211?text=Hey%20Rafa!" target="_blank" rel="noreferrer">
+  <a href="https://wa.me/5571996915009?text=Hey%20Rafa!" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 
   <a href="https://t.me/engineergomes" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/-Telegram-30A3E6?style=flat-square&labelColor=30A3E6&logo=telegram&logoColor=white&link=LINK-DO-SEU-FACEBOOK" alt="Facebook"/></a>
+  <img src="https://img.shields.io/badge/-Telegram-30A3E6?style=flat-square&labelColor=30A3E6&logo=telegram&logoColor=white" alt="Telegram"/></a>
 
   <a href="https://twitter.com/engineergomes" target="_blank" rel="noreferrer" >
   <img src="https://img.shields.io/badge/-Twiiter-1D9BF0?style=flat-square&labelColor=1D9BF0&logo=twitter&logoColor=white" alt="Twitter"/></a>
