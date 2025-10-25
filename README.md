@@ -13,19 +13,16 @@ I'm a **Full-Stack Software Engineer** with a strong background in **Electrical 
 I love turning ideas into reality — whether it’s through code, automation, or building meaningful digital products.
 
 - ⚙️ Passionate about performance, clean architecture, and security.  
-- 🌎 Founder at **Cold Brew**, a software house delivering **Web3** and **AI-driven** solutions.  
 - ⚡ Explorer of decentralized systems and intelligent automation.  
 - ☕ Fueled by coffee, creativity, and curiosity.  
-- 🚴 In my free time: cycling, hiking, or gaming.
 
 ---
 
 ### 🧠 Core Skills
 
-**Languages:** TypeScript · Python · Go · C  
-**Frameworks:** React · Next.js · NestJS · Node.js  
-**Infra:** Docker · PostgreSQL · Redis · AWS · Vercel  
-**Specialties:** Web3 · AI · IoT · Automation · Data-driven apps  
+**Languages:** TypeScript · Python · Go 
+**Frameworks:** React · Next.js · NestJS · Node.js · Gin
+**Infra:** Docker · PostgreSQL · Redis · AWS · Vercel  · Heroku  
 
 ---
 
@@ -66,13 +63,7 @@ Let’s connect:
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=engineergomes&show_icons=true&theme=radical&hide_title=true&count_private=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engineergomes&layout=compact&theme=radical" height="160"/>
 </p>
 
 ---
-
-<p align="center">
-  <em>“Code is art, engineering is empathy.”</em><br/>
-  💡 <strong>Always learning. Always building.</strong>
-</p>
